@@ -16,6 +16,5 @@ app.get('/', (req, res) => {
     res.redirect('/availability');
 });
 
-const PORT = 80;
-const PUBLIC_IP = '3.144.95.103';
-app.listen(PORT, () => console.log(`Server running at http://${PUBLIC_IP}`));
+const PORT = 3000;
+app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
