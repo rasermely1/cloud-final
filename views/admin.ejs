@@ -1,0 +1,19 @@
+<h1 class="text-center text-primary mt-4">Admin Panel</h1>
+
+<div class="mt-5">
+    <h2 class="text-secondary">Add Parking Lot</h2>
+    <form action="/admin/add" method="POST" class="form-group shadow p-4 rounded bg-light">
+        <input type="text" name="lot" class="form-control mb-3" placeholder="Lot Name" required>
+        <input type="number" name="available" class="form-control mb-3" placeholder="Available Spaces" required>
+        <input type="number" name="capacity" class="form-control mb-3" placeholder="Capacity" required>
+        <button type="submit" class="btn btn-success w-100">Add Lot</button>
+    </form>
+</div>
+
+<div class="mt-5">
+    <h2 class="text-secondary">Delete Parking Lot</h2>
+    <form action="/admin/delete" method="POST" class="form-group shadow p-4 rounded bg-light">
+        <input type="text" name="lot" class="form-control mb-3" placeholder="Lot Name" required>
+        <button type="submit" class="btn btn-danger w-100">Delete Lot</button>
+    </form>
+</div>

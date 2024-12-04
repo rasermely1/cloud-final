@@ -1,0 +1,87 @@
+<h1 class="text-center text-primary mt-4">Parking Availability</h1>
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <p class="text-muted">Latest parking data available below.</p>
+        <input
+            type="text"
+            id="searchBar"
+            class="form-control"
+            placeholder="Search by Lot Name"
+            onkeyup="filterTable()"
+        />
+    </div>
+    <button id="updateDataBtn" class="btn btn-warning">Update Availability</button>
+</div>
+
+<script>
+    // Function to update parking data
+    document.getElementById('updateDataBtn').addEventListener('click', async () => {
+        const button = document.getElementById('updateDataBtn');
+        button.textContent = 'Updating...';
+        button.disabled = true;
+
+        try {
+            const response = await fetch('/availability/update', { method: 'POST' });
+            if (response.ok) {
+                const result = await response.json();
+                alert('Parking data updated successfully!');
+                location.reload(); // Reload the page to show updated data
+            } else {
+                alert('Failed to update parking data.');
+            }
+        } catch (error) {
+            console.error('Error:', error);
+            alert('An error occurred while updating parking data.');
+        } finally {
+            button.textContent = 'Update Availability';
+            button.disabled = false;
+        }
+    });
+
+    // Function to filter table based on search input
+    function filterTable() {
+        const input = document.getElementById('searchBar').value.toLowerCase();
+        const rows = document.querySelectorAll('#parkingTable tbody tr');
+
+        rows.forEach(row => {
+            const lotName = row.querySelector('td').textContent.toLowerCase();
+            if (lotName.includes(input)) {
+                row.style.display = ''; // Show the row
+            } else {
+                row.style.display = 'none'; // Hide the row
+            }
+        });
+    }
+</script>
+
+<div class="table-responsive shadow p-3 bg-light rounded">
+    <table class="table table-striped table-bordered" id="parkingTable">
+        <thead class="bg-primary text-white">
+            <tr>
+                <th>Lot</th>
+                <th>Available Spaces</th>
+                <th>Total Capacity</th>
+                <th>Availability (%)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% if (parkingData.length === 0) { %>
+                <tr>
+                    <td colspan="4" class="text-center">No parking data available.</td>
+                </tr>
+            <% } else { %>
+                <% parkingData.forEach(lot => { %>
+                    <tr>
+                        <td><%= lot.lot %></td>
+                        <td><%= lot.available %></td>
+                        <td><%= lot.capacity %></td>
+                        <td class="fw-bold text-<%= parseFloat(lot.percentage) < 50 ? 'success' : 'danger' %>">
+                            <%= lot.percentage %>
+                        </td>
+                    </tr>
+                <% }) %>
+            <% } %>
+        </tbody>
+    </table>
+</div>

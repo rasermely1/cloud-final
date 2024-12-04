@@ -1,0 +1,2894 @@
+[
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West Stadium Lot",
+    "available": 101,
+    "capacity": 221,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Bernie Moore Lot",
+    "available": 104,
+    "capacity": 191,
+    "percentage": "25% Full"
+  },
+  {
+    "lot": "Natatorium Lot",
+    "available": 105,
+    "capacity": 315,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Touchdown Village West Lot",
+    "available": 314,
+    "capacity": 1364,
+    "percentage": "58% Full"
+  },
+  {
+    "lot": "Touchdown Village East Lot",
+    "available": 315,
+    "capacity": 1221,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "West Parker Blvd. Lot",
+    "available": 316,
+    "capacity": 206,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "South Stadium East Lot",
+    "available": 401,
+    "capacity": 328,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "South Stadium West Lot",
+    "available": 401,
+    "capacity": 529,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "South Quad Dr. West Lot",
+    "available": 403,
+    "capacity": 441,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Skip Bertman Dr. East Lot",
+    "available": 404,
+    "capacity": 641,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "East Parker Blvd. Lot",
+    "available": 604,
+    "capacity": 504,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "ECE West Lot",
+    "available": 402,
+    "capacity": 285,
+    "percentage": "15% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West Stadium Lot",
+    "available": 101,
+    "capacity": 221,
+    "percentage": "27% Full"
+  },
+  {
+    "lot": "Bernie Moore Lot",
+    "available": 104,
+    "capacity": 191,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "Natatorium Lot",
+    "available": 105,
+    "capacity": 315,
+    "percentage": "1% full"
+  },
+  {
+    "lot": "Touchdown Village West Lot",
+    "available": 314,
+    "capacity": 1364,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "Touchdown Village East Lot",
+    "available": 315,
+    "capacity": 1221,
+    "percentage": "12% Full"
+  },
+  {
+    "lot": "West Parker Blvd. Lot",
+    "available": 316,
+    "capacity": 206,
+    "percentage": "12% Full"
+  },
+  {
+    "lot": "South Stadium East Lot",
+    "available": 401,
+    "capacity": 328,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "South Stadium West Lot",
+    "available": 401,
+    "capacity": 529,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "South Quad Dr. West Lot",
+    "available": 403,
+    "capacity": 441,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "Skip Bertman Dr. East Lot",
+    "available": 404,
+    "capacity": 641,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "East Parker Blvd. Lot",
+    "available": 604,
+    "capacity": 504,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "ECE West Lot",
+    "available": 402,
+    "capacity": 285,
+    "percentage": "15% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "28% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West Stadium Lot",
+    "available": 101,
+    "capacity": 221,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Bernie Moore Lot",
+    "available": 104,
+    "capacity": 191,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "Natatorium Lot",
+    "available": 105,
+    "capacity": 315,
+    "percentage": "27% Full"
+  },
+  {
+    "lot": "Touchdown Village West Lot",
+    "available": 314,
+    "capacity": 1364,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "Touchdown Village East Lot",
+    "available": 315,
+    "capacity": 1221,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "West Parker Blvd. Lot",
+    "available": 316,
+    "capacity": 206,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "South Stadium East Lot",
+    "available": 401,
+    "capacity": 328,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "South Stadium West Lot",
+    "available": 401,
+    "capacity": 529,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "South Quad Dr. West Lot",
+    "available": 403,
+    "capacity": 441,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Skip Bertman Dr. East Lot",
+    "available": 404,
+    "capacity": 641,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "East Parker Blvd. Lot",
+    "available": 604,
+    "capacity": 504,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "ECE West Lot",
+    "available": 402,
+    "capacity": 285,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "36% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West Stadium Lot",
+    "available": 101,
+    "capacity": 221,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Bernie Moore Lot",
+    "available": 104,
+    "capacity": 191,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "Natatorium Lot",
+    "available": 105,
+    "capacity": 315,
+    "percentage": "27% Full"
+  },
+  {
+    "lot": "Touchdown Village West Lot",
+    "available": 314,
+    "capacity": 1364,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "Touchdown Village East Lot",
+    "available": 315,
+    "capacity": 1221,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "West Parker Blvd. Lot",
+    "available": 316,
+    "capacity": 206,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "South Stadium East Lot",
+    "available": 401,
+    "capacity": 328,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "South Stadium West Lot",
+    "available": 401,
+    "capacity": 529,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "South Quad Dr. West Lot",
+    "available": 403,
+    "capacity": 441,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Skip Bertman Dr. East Lot",
+    "available": 404,
+    "capacity": 641,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "East Parker Blvd. Lot",
+    "available": 604,
+    "capacity": 504,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "ECE West Lot",
+    "available": 402,
+    "capacity": 285,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "33% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West Stadium Lot",
+    "available": 101,
+    "capacity": 221,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Bernie Moore Lot",
+    "available": 104,
+    "capacity": 191,
+    "percentage": "15% Full"
+  },
+  {
+    "lot": "Natatorium Lot",
+    "available": 105,
+    "capacity": 191,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Touchdown Village West Lot",
+    "available": 314,
+    "capacity": 1364,
+    "percentage": "58% Full"
+  },
+  {
+    "lot": "Touchdown Village East Lot",
+    "available": 315,
+    "capacity": 1221,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "West Parker Blvd. Lot",
+    "available": 316,
+    "capacity": 206,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "South Stadium East Lot",
+    "available": 401,
+    "capacity": 328,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "South Stadium West Lot",
+    "available": 401,
+    "capacity": 529,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "South Quad Dr. West Lot",
+    "available": 403,
+    "capacity": 441,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Skip Bertman Dr. East Lot",
+    "available": 404,
+    "capacity": 641,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "East Parker Blvd. Lot",
+    "available": 604,
+    "capacity": 504,
+    "percentage": "9% Full"
+  },
+  {
+    "lot": "ECE West Lot",
+    "available": 402,
+    "capacity": 285,
+    "percentage": "7% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Canal Hall North Lot",
+    "available": 111,
+    "capacity": 85,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Nicholson Gateway North Lot",
+    "available": 112,
+    "capacity": 423,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Beach Volleyball Lot",
+    "available": 206,
+    "capacity": 121,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Spruce Hall Lot",
+    "available": 210,
+    "capacity": 125,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Alaska Street Lot (WCA West)",
+    "available": 211,
+    "capacity": 427,
+    "percentage": "56% Full"
+  },
+  {
+    "lot": "Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 189,
+    "percentage": "58% Full"
+  },
+  {
+    "lot": "North Kirby Smith Hall Lot (WCA North)",
+    "available": 211,
+    "capacity": 219,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Aster Street West Lot",
+    "available": 212,
+    "capacity": 176,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Aster Street East Lot",
+    "available": 213,
+    "capacity": 200,
+    "percentage": "63% Full"
+  },
+  {
+    "lot": "Alaska Street East Lot (Cypress Dr. North)",
+    "available": 219,
+    "capacity": 266,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "Broussard Circle Lot",
+    "available": 220,
+    "capacity": 19,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Pentagon Lot",
+    "available": 220,
+    "capacity": 65,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Broussard Lot",
+    "available": 221,
+    "capacity": 73,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Acadian Lot",
+    "available": 506,
+    "capacity": 141,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "Blake Hall Lot",
+    "available": 507,
+    "capacity": 93,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Campus Lake Gravel Lot",
+    "available": 508,
+    "capacity": 134,
+    "percentage": "90% Full"
+  },
+  {
+    "lot": "Herget Hall Lot",
+    "available": 508,
+    "capacity": 230,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Miller Hall Lot",
+    "available": 508,
+    "capacity": 177,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Hill Farm Student Lot",
+    "available": 515,
+    "capacity": 298,
+    "percentage": "91% Full"
+  },
+  {
+    "lot": "Student Rec West Lot",
+    "available": 517,
+    "capacity": 100,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "South Stadium Dr. East Lot",
+    "available": 601,
+    "capacity": 125,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 1)",
+    "available": 701,
+    "capacity": 134,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 2)",
+    "available": 701,
+    "capacity": 146,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 3)",
+    "available": 701,
+    "capacity": 170,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 4)",
+    "available": 701,
+    "capacity": 171,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 5)",
+    "available": 701,
+    "capacity": 178,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "East Campus Apartments (East Lot)",
+    "available": 504,
+    "capacity": 191,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "East Campus Apartments (West Lot)",
+    "available": 504,
+    "capacity": 218,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Corporate Canal South Lot",
+    "available": 518,
+    "capacity": 81,
+    "percentage": "85% Full"
+  },
+  {
+    "lot": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "available": null,
+    "capacity": 18,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "South Campus Street (Bridge) Lot",
+    "available": null,
+    "capacity": 105,
+    "percentage": "91% Full"
+  },
+  {
+    "lot": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "available": null,
+    "capacity": 172,
+    "percentage": "23% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Canal Hall North Lot",
+    "available": 111,
+    "capacity": 85,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Nicholson Gateway North Lot",
+    "available": 112,
+    "capacity": 423,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Beach Volleyball Lot",
+    "available": 206,
+    "capacity": 121,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Spruce Hall Lot",
+    "available": 210,
+    "capacity": 125,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Alaska Street Lot (WCA West)",
+    "available": 211,
+    "capacity": 427,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 189,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "North Kirby Smith Hall Lot (WCA North)",
+    "available": 211,
+    "capacity": 219,
+    "percentage": "33% Full"
+  },
+  {
+    "lot": "Aster Street West Lot",
+    "available": 212,
+    "capacity": 176,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "Aster Street East Lot",
+    "available": 213,
+    "capacity": 200,
+    "percentage": "11% Full"
+  },
+  {
+    "lot": "Alaska Street East Lot (Cypress Dr. North)",
+    "available": 219,
+    "capacity": 266,
+    "percentage": "65% Full"
+  },
+  {
+    "lot": "Broussard Circle Lot",
+    "available": 220,
+    "capacity": 19,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Pentagon Lot",
+    "available": 220,
+    "capacity": 65,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Acadian Lot",
+    "available": 506,
+    "capacity": 141,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Blake Hall Lot",
+    "available": 507,
+    "capacity": 93,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Campus Lake Gravel Lot",
+    "available": 508,
+    "capacity": 134,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "Herget Hall Lot",
+    "available": 508,
+    "capacity": 230,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Miller Hall Lot",
+    "available": 508,
+    "capacity": 177,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Hill Farm Student Lot",
+    "available": 515,
+    "capacity": 298,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Student Rec West Lot",
+    "available": 517,
+    "capacity": 100,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "28% Full"
+  },
+  {
+    "lot": "South Stadium Dr. East Lot",
+    "available": 601,
+    "capacity": 125,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 1)",
+    "available": 701,
+    "capacity": 134,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 2)",
+    "available": 701,
+    "capacity": 146,
+    "percentage": "55% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 3)",
+    "available": 701,
+    "capacity": 170,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 4)",
+    "available": 701,
+    "capacity": 171,
+    "percentage": "6% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 5)",
+    "available": 701,
+    "capacity": 178,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "East Campus Apartments (East Lot)",
+    "available": 504,
+    "capacity": 191,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "East Campus Apartments (West Lot)",
+    "available": 504,
+    "capacity": 218,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Corporate Canal South Lot",
+    "available": 518,
+    "capacity": 81,
+    "percentage": "85% Full"
+  },
+  {
+    "lot": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "available": null,
+    "capacity": 18,
+    "percentage": "94% Full"
+  },
+  {
+    "lot": "South Campus Street (Bridge) Lot",
+    "available": null,
+    "capacity": 105,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "available": null,
+    "capacity": 172,
+    "percentage": "63% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Canal Hall North Lot",
+    "available": 111,
+    "capacity": 85,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Nicholson Gateway North Lot",
+    "available": 112,
+    "capacity": 423,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Beach Volleyball Lot",
+    "available": 206,
+    "capacity": 121,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Spruce Hall Lot",
+    "available": 210,
+    "capacity": 125,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Alaska Street Lot (WCA West)",
+    "available": 211,
+    "capacity": 427,
+    "percentage": "85% Full"
+  },
+  {
+    "lot": "Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 189,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "North Kirby Smith Hall Lot (WCA North)",
+    "available": 211,
+    "capacity": 219,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Aster Street West Lot",
+    "available": 212,
+    "capacity": 176,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "Aster Street East Lot",
+    "available": 213,
+    "capacity": 200,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Alaska Street East Lot (Cypress Dr. North)",
+    "available": 219,
+    "capacity": 266,
+    "percentage": "65% Full"
+  },
+  {
+    "lot": "Broussard Circle Lot",
+    "available": 220,
+    "capacity": 19,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Pentagon Lot",
+    "available": 220,
+    "capacity": 65,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Acadian Lot",
+    "available": 506,
+    "capacity": 141,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Blake Hall Lot",
+    "available": 507,
+    "capacity": 93,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Campus Lake Gravel Lot",
+    "available": 508,
+    "capacity": 134,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "Herget Hall Lot",
+    "available": 508,
+    "capacity": 230,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Miller Hall Lot",
+    "available": 508,
+    "capacity": 177,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Hill Farm Student Lot",
+    "available": 515,
+    "capacity": 298,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Student Rec West Lot",
+    "available": 517,
+    "capacity": 100,
+    "percentage": "88% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "36% Full"
+  },
+  {
+    "lot": "South Stadium Dr. East Lot",
+    "available": 601,
+    "capacity": 125,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 1)",
+    "available": 701,
+    "capacity": 134,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 2)",
+    "available": 701,
+    "capacity": 146,
+    "percentage": "87% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 3)",
+    "available": 701,
+    "capacity": 170,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 4)",
+    "available": 701,
+    "capacity": 171,
+    "percentage": "8% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 5)",
+    "available": 701,
+    "capacity": 178,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "East Campus Apartments (East Lot)",
+    "available": 504,
+    "capacity": 191,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "East Campus Apartments (West Lot)",
+    "available": 504,
+    "capacity": 218,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Corporate Canal South Lot",
+    "available": 518,
+    "capacity": 81,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "available": null,
+    "capacity": 18,
+    "percentage": "83% Full"
+  },
+  {
+    "lot": "South Campus Street (Bridge) Lot",
+    "available": null,
+    "capacity": 105,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "available": null,
+    "capacity": 172,
+    "percentage": "61% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Canal Hall North Lot",
+    "available": 111,
+    "capacity": 85,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Nicholson Gateway North Lot",
+    "available": 112,
+    "capacity": 423,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Beach Volleyball Lot",
+    "available": 206,
+    "capacity": 121,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Spruce Hall Lot",
+    "available": 210,
+    "capacity": 125,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Alaska Street Lot (WCA West)",
+    "available": 211,
+    "capacity": 427,
+    "percentage": "88% Full"
+  },
+  {
+    "lot": "Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 189,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "North Kirby Smith Hall Lot (WCA North)",
+    "available": 211,
+    "capacity": 219,
+    "percentage": "55% Full"
+  },
+  {
+    "lot": "Aster Street West Lot",
+    "available": 212,
+    "capacity": 176,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "Aster Street East Lot",
+    "available": 213,
+    "capacity": 200,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Alaska Street East Lot (Cypress Dr. North)",
+    "available": 219,
+    "capacity": 266,
+    "percentage": "67% Full"
+  },
+  {
+    "lot": "Broussard Circle Lot",
+    "available": 220,
+    "capacity": 19,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Pentagon Lot",
+    "available": 220,
+    "capacity": 65,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Acadian Lot",
+    "available": 506,
+    "capacity": 141,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Blake Hall Lot",
+    "available": 507,
+    "capacity": 93,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Campus Lake Gravel Lot",
+    "available": 508,
+    "capacity": 134,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Herget Hall Lot",
+    "available": 508,
+    "capacity": 230,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Miller Hall Lot",
+    "available": 508,
+    "capacity": 177,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Hill Farm Student Lot",
+    "available": 515,
+    "capacity": 298,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Student Rec West Lot",
+    "available": 517,
+    "capacity": 100,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "33% Full"
+  },
+  {
+    "lot": "South Stadium Dr. East Lot",
+    "available": 601,
+    "capacity": 125,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 1)",
+    "available": 701,
+    "capacity": 134,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 2)",
+    "available": 701,
+    "capacity": 146,
+    "percentage": "82% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 3)",
+    "available": 701,
+    "capacity": 170,
+    "percentage": "26% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 4)",
+    "available": 701,
+    "capacity": 171,
+    "percentage": "7% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 5)",
+    "available": 701,
+    "capacity": 178,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "East Campus Apartments (East Lot)",
+    "available": 504,
+    "capacity": 191,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "East Campus Apartments (West Lot)",
+    "available": 504,
+    "capacity": 218,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "Corporate Canal South Lot",
+    "available": 518,
+    "capacity": 81,
+    "percentage": "81% Full"
+  },
+  {
+    "lot": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "available": null,
+    "capacity": 18,
+    "percentage": "89% Full"
+  },
+  {
+    "lot": "South Campus Street (Bridge) Lot",
+    "available": null,
+    "capacity": 105,
+    "percentage": "94% Full"
+  },
+  {
+    "lot": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "available": null,
+    "capacity": 172,
+    "percentage": "56% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Canal Hall North Lot",
+    "available": 111,
+    "capacity": 85,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Nicholson Gateway North Lot",
+    "available": 112,
+    "capacity": 423,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "Beach Volleyball Lot",
+    "available": 206,
+    "capacity": 121,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "Spruce Hall Lot",
+    "available": 210,
+    "capacity": 125,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Alaska street Lot (WCA West)",
+    "available": 211,
+    "capacity": 427,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 189,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "North Kirby Smith Hall Lot",
+    "available": 211,
+    "capacity": 219,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Aster Street West Lot",
+    "available": 212,
+    "capacity": 176,
+    "percentage": "4% Full"
+  },
+  {
+    "lot": "Aster Street East Lot",
+    "available": 213,
+    "capacity": 200,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Alaska Street East Lot (Cypress Dr. North)",
+    "available": 219,
+    "capacity": 266,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Broussard Circle Lot",
+    "available": 220,
+    "capacity": 19,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Pentagon Lot",
+    "available": 220,
+    "capacity": 65,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Acadian Lot",
+    "available": 506,
+    "capacity": 141,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Blake Hall Lot",
+    "available": 507,
+    "capacity": 93,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Campus Lake Gravel Lot",
+    "available": 508,
+    "capacity": 134,
+    "percentage": "91% Full"
+  },
+  {
+    "lot": "Herget Hall Lot",
+    "available": 508,
+    "capacity": 230,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Miller Hall Lot",
+    "available": 508,
+    "capacity": 177,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Hill Farm Student Lot",
+    "available": 515,
+    "capacity": 298,
+    "percentage": "87% Full"
+  },
+  {
+    "lot": "Student Rec West Lot",
+    "available": 517,
+    "capacity": 100,
+    "percentage": "81% Full"
+  },
+  {
+    "lot": "Parker Coliseum Lot",
+    "available": 600,
+    "capacity": 494,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "South Stadium Dr. East Lot",
+    "available": 601,
+    "capacity": 125,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 1)",
+    "available": 701,
+    "capacity": 134,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 2)",
+    "available": 701,
+    "capacity": 146,
+    "percentage": "69% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 3)",
+    "available": 701,
+    "capacity": 170,
+    "percentage": "24% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 4)",
+    "available": 701,
+    "capacity": 171,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "Nicholson Gateway Garage (Level 5)",
+    "available": 701,
+    "capacity": 178,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "East Campus Apartments (East Lot)",
+    "available": 504,
+    "capacity": 191,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "East Campus Apartments (West Lot)",
+    "available": 504,
+    "capacity": 218,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "Corporate Canal South Lot",
+    "available": 518,
+    "capacity": 81,
+    "percentage": "91% Full"
+  },
+  {
+    "lot": "Campus Lake - South Campus Lot (McVoy Hall)",
+    "available": null,
+    "capacity": 18,
+    "percentage": "39% Full"
+  },
+  {
+    "lot": "South Campus Street (Bridge) Lot",
+    "available": null,
+    "capacity": 105,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "South Stadium / East Parker / Highland Rd. (Street) Lot",
+    "available": null,
+    "capacity": 172,
+    "percentage": "47% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Fraternity Circle Lot",
+    "available": 501,
+    "capacity": 94,
+    "percentage": "79% Full"
+  },
+  {
+    "lot": "Greek Row Central Lot",
+    "available": 521,
+    "capacity": 203,
+    "percentage": "48% Full"
+  },
+  {
+    "lot": "Greek Row South Lot",
+    "available": 523,
+    "capacity": 84,
+    "percentage": "77% Full"
+  },
+  {
+    "lot": "Greek Row North Lot",
+    "available": 524,
+    "capacity": 141,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot (Street)",
+    "available": 500,
+    "capacity": 25,
+    "percentage": "8% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot",
+    "available": 500,
+    "capacity": 53,
+    "percentage": "49% Full"
+  },
+  {
+    "lot": "Fraternity Ln. East Lot",
+    "available": 500,
+    "capacity": 41,
+    "percentage": "71% Full"
+  },
+  {
+    "lot": "Fraternity Ln. North Lot",
+    "available": 500,
+    "capacity": 83,
+    "percentage": "63% Full"
+  },
+  {
+    "lot": "Greek Row West Lot",
+    "available": 520,
+    "capacity": 84,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "West Lakeshore North Lot",
+    "available": 513,
+    "capacity": 116,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Fraternity Circle Lot",
+    "available": 501,
+    "capacity": 94,
+    "percentage": "77% Full"
+  },
+  {
+    "lot": "Greek Row Central Lot",
+    "available": 521,
+    "capacity": 203,
+    "percentage": "50% Full"
+  },
+  {
+    "lot": "Greek Row South Lot",
+    "available": 523,
+    "capacity": 84,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Greek Row North Lot",
+    "available": 524,
+    "capacity": 141,
+    "percentage": "9% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot (Street)",
+    "available": 500,
+    "capacity": 25,
+    "percentage": "52% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot",
+    "available": 500,
+    "capacity": 53,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Fraternity Ln. East Lot (Gravel)",
+    "available": 500,
+    "capacity": 41,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Fraternity Ln. North Lot",
+    "available": 500,
+    "capacity": 83,
+    "percentage": "63% Full"
+  },
+  {
+    "lot": "Greek Row West Lot",
+    "available": 520,
+    "capacity": 84,
+    "percentage": "96% Full"
+  },
+  {
+    "lot": "West Lakeshore North Lot",
+    "available": 513,
+    "capacity": 116,
+    "percentage": "85% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Fraternity Circle Lot",
+    "available": 501,
+    "capacity": 94,
+    "percentage": "77% Full"
+  },
+  {
+    "lot": "Greek Row Central Lot",
+    "available": 521,
+    "capacity": 203,
+    "percentage": "44% Full"
+  },
+  {
+    "lot": "Greek Row South Lot",
+    "available": 523,
+    "capacity": 84,
+    "percentage": "88% Full"
+  },
+  {
+    "lot": "Greek Row North Lot",
+    "available": 524,
+    "capacity": 141,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot (Street)",
+    "available": 500,
+    "capacity": 25,
+    "percentage": "52% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot",
+    "available": 500,
+    "capacity": 53,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Fraternity Ln. East Lot (Gravel)",
+    "available": 500,
+    "capacity": 41,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Fraternity Ln. North Lot",
+    "available": 500,
+    "capacity": 83,
+    "percentage": "94% Full"
+  },
+  {
+    "lot": "Greek Row West Lot",
+    "available": 520,
+    "capacity": 84,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "West Lakeshore North Lot",
+    "available": 513,
+    "capacity": 116,
+    "percentage": "59% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Fraternity Circle Lot",
+    "available": 501,
+    "capacity": 94,
+    "percentage": "81% Full"
+  },
+  {
+    "lot": "Greek Row Central Lot",
+    "available": 521,
+    "capacity": 203,
+    "percentage": "47% Full"
+  },
+  {
+    "lot": "Greek Row South Lot",
+    "available": 523,
+    "capacity": 84,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Greek Row North Lot",
+    "available": 524,
+    "capacity": 141,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot (Street)",
+    "available": 500,
+    "capacity": 25,
+    "percentage": "76% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot",
+    "available": 500,
+    "capacity": 53,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Fraternity Ln. East Lot (Gravel)",
+    "available": 500,
+    "capacity": 41,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "Fraternity Ln. North Lot",
+    "available": 500,
+    "capacity": 83,
+    "percentage": "90% Full"
+  },
+  {
+    "lot": "Greek Row West Lot",
+    "available": 520,
+    "capacity": 84,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "West Lakeshore North Lot",
+    "available": 513,
+    "capacity": 116,
+    "percentage": "67% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "Fraternity Circle Lot",
+    "available": 501,
+    "capacity": 94,
+    "percentage": "69% Full"
+  },
+  {
+    "lot": "Greek Row Central Lot",
+    "available": 521,
+    "capacity": 203,
+    "percentage": "22% Full"
+  },
+  {
+    "lot": "Greek Row South Lot",
+    "available": 523,
+    "capacity": 84,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Greek Row North Lot",
+    "available": 524,
+    "capacity": 141,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot (Street)",
+    "available": 500,
+    "capacity": 25,
+    "percentage": "40% Full"
+  },
+  {
+    "lot": "Fraternity Ln. Lot",
+    "available": 500,
+    "capacity": 53,
+    "percentage": "60% Full"
+  },
+  {
+    "lot": "Fraternity Ln. East Lot (Gravel)",
+    "available": 500,
+    "capacity": 41,
+    "percentage": "66% Full"
+  },
+  {
+    "lot": "Fraternity Ln. North Lot",
+    "available": 500,
+    "capacity": 83,
+    "percentage": "94% Full"
+  },
+  {
+    "lot": "Greek Row West Lot",
+    "available": 520,
+    "capacity": 84,
+    "percentage": "67% Full"
+  },
+  {
+    "lot": "West Lakeshore North Lot",
+    "available": 513,
+    "capacity": 116,
+    "percentage": "76% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West State St. Lot",
+    "available": 218,
+    "capacity": 55,
+    "percentage": "62% Full"
+  },
+  {
+    "lot": "Donahue Street Lot",
+    "available": 220,
+    "capacity": 18,
+    "percentage": "43% Full"
+  },
+  {
+    "lot": "Old Band Hall (Gravel) Lot",
+    "available": 222,
+    "capacity": 26,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "312 A (Gravel)",
+    "available": 312,
+    "capacity": 30,
+    "percentage": "60% Full"
+  },
+  {
+    "lot": "Public Safety Lot",
+    "available": 400,
+    "capacity": 42,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Hansen's Lot",
+    "available": 420,
+    "capacity": 10,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Vet Med East Lot",
+    "available": 421,
+    "capacity": 170,
+    "percentage": "44% Full"
+  },
+  {
+    "lot": "Vet Med West Lot",
+    "available": 422,
+    "capacity": 113,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Vet Ln. Lot",
+    "available": 423,
+    "capacity": 6,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "LADDL  Lot",
+    "available": 424,
+    "capacity": 57,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Warehouse Ln. Lot",
+    "available": 425,
+    "capacity": 41,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "University Stores B Lot",
+    "available": 430,
+    "capacity": 42,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "87% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "87% Full"
+  },
+  {
+    "lot": "U-High South B Lot",
+    "available": 511,
+    "capacity": 24,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Early Learning Center B Lot",
+    "available": null,
+    "capacity": 23,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nelson Memorial B Lot",
+    "available": 603,
+    "capacity": 29,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Tiger Band Hall B Lot",
+    "available": 214,
+    "capacity": 6,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "The 5 B Lot",
+    "available": 221,
+    "capacity": 24,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Cogen Lot",
+    "available": 301,
+    "capacity": 26,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Electrical Engineering B Lot",
+    "available": 304,
+    "capacity": 117,
+    "percentage": "41% Full"
+  },
+  {
+    "lot": "Facility Services Lot (Fieldhouse Dr.)",
+    "available": 304,
+    "capacity": 75,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Sturgis Hall B Lot (312A)",
+    "available": 312,
+    "capacity": 70,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "E.B. Doran Hall Lot",
+    "available": 312,
+    "capacity": 44,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "ECE B Lot",
+    "available": 402,
+    "capacity": 60,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "E.B Doran Hall (Gravel) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "South Quad B (Gravel) Lot",
+    "available": 403,
+    "capacity": 55,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Engineering Ln. Lot",
+    "available": null,
+    "capacity": 56,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (Alaska St.) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "37% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "available": null,
+    "capacity": 45,
+    "percentage": "64% Full"
+  },
+  {
+    "lot": "Forestry Ln. Lot",
+    "available": null,
+    "capacity": 15,
+    "percentage": "86% Full"
+  },
+  {
+    "lot": "Hospital Ln. Lot",
+    "available": null,
+    "capacity": 16,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Infirmary Rd. Lot",
+    "available": null,
+    "capacity": 38,
+    "percentage": "27% Full"
+  },
+  {
+    "lot": "Tower Dr. B Lot",
+    "available": null,
+    "capacity": 58,
+    "percentage": "75% Full"
+  },
+  {
+    "lot": "Parade Grounds North Lot",
+    "available": null,
+    "capacity": 40,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Parade Grounds South Lot",
+    "available": null,
+    "capacity": 61,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "North Stadium Dr. Lot",
+    "available": null,
+    "capacity": 27,
+    "percentage": "22% Full"
+  },
+  {
+    "lot": "Parker Coliseum B Lot",
+    "available": null,
+    "capacity": 37,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West State St. Lot",
+    "available": 218,
+    "capacity": 55,
+    "percentage": "69% Full"
+  },
+  {
+    "lot": "Donahue St. Lot",
+    "available": 220,
+    "capacity": 18,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "Old Band Hall (Gravel) Lot",
+    "available": 222,
+    "capacity": 26,
+    "percentage": "65% Full"
+  },
+  {
+    "lot": "312A Gravel Lot",
+    "available": 312,
+    "capacity": 30,
+    "percentage": "63% Full"
+  },
+  {
+    "lot": "Public Safety B Lot",
+    "available": 400,
+    "capacity": 42,
+    "percentage": "30% Full"
+  },
+  {
+    "lot": "Hansen's Lot",
+    "available": 420,
+    "capacity": 10,
+    "percentage": "40% Full"
+  },
+  {
+    "lot": "Vet Med East Lot",
+    "available": 421,
+    "capacity": 170,
+    "percentage": "21% Full"
+  },
+  {
+    "lot": "Vet Med West Lot",
+    "available": 422,
+    "capacity": 113,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Vet Ln. Lot",
+    "available": 423,
+    "capacity": 6,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "LADDL  Lot",
+    "available": 424,
+    "capacity": 57,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Warehouse Ln. Lot",
+    "available": 425,
+    "capacity": 41,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "University Stores B Lot",
+    "available": 430,
+    "capacity": 42,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "72% Full"
+  },
+  {
+    "lot": "U-High South  B Lot",
+    "available": 511,
+    "capacity": 24,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Early Learning Center B Lot",
+    "available": null,
+    "capacity": 23,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nelson Memorial Lot",
+    "available": 603,
+    "capacity": 29,
+    "percentage": "31% Full"
+  },
+  {
+    "lot": "Tiger Band Hall B Lot",
+    "available": 214,
+    "capacity": 6,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "The 5 B Lot",
+    "available": 221,
+    "capacity": 24,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Cogen Hall Lot",
+    "available": 301,
+    "capacity": 26,
+    "percentage": "30% Full"
+  },
+  {
+    "lot": "Electrical Engineering Lot",
+    "available": 304,
+    "capacity": 117,
+    "percentage": "35% Full"
+  },
+  {
+    "lot": "Facility Services B Lot (Fieldhouse Dr.)",
+    "available": 312,
+    "capacity": 75,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Sturgis Hall B Lot",
+    "available": 312,
+    "capacity": 70,
+    "percentage": "15% Full"
+  },
+  {
+    "lot": "E.B. Doran Hall Lot",
+    "available": 402,
+    "capacity": 44,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "ECE B Lot",
+    "available": null,
+    "capacity": 60,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "E.B.Doran Hall (Gravel) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "South Quad B Lot",
+    "available": 403,
+    "capacity": 55,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "Engineering Ln. B Lot",
+    "available": null,
+    "capacity": 56,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (Alaska St.) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "31% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "available": null,
+    "capacity": 45,
+    "percentage": "97% Full"
+  },
+  {
+    "lot": "Forestry Ln. Lot",
+    "available": null,
+    "capacity": 15,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "Hospital Ln. Lot",
+    "available": null,
+    "capacity": 16,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Infirmary Rd. Lot",
+    "available": null,
+    "capacity": 38,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "Tower Dr. B Lot",
+    "available": null,
+    "capacity": 58,
+    "percentage": "68% Full"
+  },
+  {
+    "lot": "Parade Grounds North Lot",
+    "available": null,
+    "capacity": 40,
+    "percentage": "50% Full"
+  },
+  {
+    "lot": "Parade Grounds South Lot",
+    "available": null,
+    "capacity": 61,
+    "percentage": "21% Full"
+  },
+  {
+    "lot": "North Stadium Dr. Lot",
+    "available": null,
+    "capacity": 27,
+    "percentage": "44% Full"
+  },
+  {
+    "lot": "Parker Coliseum B Lot",
+    "available": null,
+    "capacity": 37,
+    "percentage": "5% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West State St. Lot",
+    "available": 218,
+    "capacity": 55,
+    "percentage": "78% Full"
+  },
+  {
+    "lot": "Donahue Street Lot",
+    "available": 220,
+    "capacity": 18,
+    "percentage": "11% Full"
+  },
+  {
+    "lot": "Old Band Hall (Gravel) Lot",
+    "available": 222,
+    "capacity": 26,
+    "percentage": "73% Full"
+  },
+  {
+    "lot": "312 A (Gravel)",
+    "available": 312,
+    "capacity": 30,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "Public Safety Lot",
+    "available": 400,
+    "capacity": 42,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Hansen's Lot",
+    "available": 420,
+    "capacity": 10,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Vet Med East Lot",
+    "available": 421,
+    "capacity": 170,
+    "percentage": "21% Full"
+  },
+  {
+    "lot": "Vet Med West Lot",
+    "available": 422,
+    "capacity": 113,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Vet Ln. Lot",
+    "available": 423,
+    "capacity": 6,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "LADDL Lot",
+    "available": 424,
+    "capacity": 57,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Warehouse Ln. Lot",
+    "available": 425,
+    "capacity": 41,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "University Stores B Lot",
+    "available": 430,
+    "capacity": 42,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "93% Full"
+  },
+  {
+    "lot": "U-High South B Lot",
+    "available": 511,
+    "capacity": 24,
+    "percentage": "79% Full"
+  },
+  {
+    "lot": "Early Learning Center B Lot",
+    "available": null,
+    "capacity": 23,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nelson Memorial B Lot",
+    "available": 603,
+    "capacity": 29,
+    "percentage": "31% Full"
+  },
+  {
+    "lot": "Tiger Band Hall B Lot",
+    "available": 214,
+    "capacity": 6,
+    "percentage": "17% Full"
+  },
+  {
+    "lot": "The 5 B Lot",
+    "available": 221,
+    "capacity": 24,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Cogen Lot",
+    "available": 301,
+    "capacity": 26,
+    "percentage": "65% Full"
+  },
+  {
+    "lot": "Electrical Engineering B Lot",
+    "available": 304,
+    "capacity": 117,
+    "percentage": "40% Full"
+  },
+  {
+    "lot": "Facility Services Lot (Fieldhouse Dr.)",
+    "available": 304,
+    "capacity": 75,
+    "percentage": "67% Full"
+  },
+  {
+    "lot": "Sturgis Hall B Lot (312A)",
+    "available": 312,
+    "capacity": 70,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "E.B. Doran Hall Lot",
+    "available": 312,
+    "capacity": 44,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "ECE B Lot",
+    "available": 402,
+    "capacity": 60,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "E.B Doran Hall (Gravel) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "South Quad B (Gravel) Lot",
+    "available": 403,
+    "capacity": 55,
+    "percentage": "2% Full"
+  },
+  {
+    "lot": "Engineering Ln. Lot",
+    "available": null,
+    "capacity": 56,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (Alaska St.) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "21% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "available": null,
+    "capacity": 45,
+    "percentage": "98% Full"
+  },
+  {
+    "lot": "Forestry Ln. Lot",
+    "available": null,
+    "capacity": 15,
+    "percentage": "87% Full"
+  },
+  {
+    "lot": "Hospital Ln. Lot",
+    "available": null,
+    "capacity": 16,
+    "percentage": "0% Full"
+  },
+  {
+    "lot": "Infirmary Rd. Lot",
+    "available": null,
+    "capacity": 38,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "Tower Dr. B Lot",
+    "available": null,
+    "capacity": 58,
+    "percentage": "78% Full"
+  },
+  {
+    "lot": "Parade Grounds North Lot",
+    "available": null,
+    "capacity": 40,
+    "percentage": "50% Full"
+  },
+  {
+    "lot": "Parade Grounds South Lot",
+    "available": null,
+    "capacity": 61,
+    "percentage": "31% Full"
+  },
+  {
+    "lot": "North Stadium Dr. Lot",
+    "available": null,
+    "capacity": 27,
+    "percentage": "67% Full"
+  },
+  {
+    "lot": "Parker Coliseum B Lot",
+    "available": null,
+    "capacity": 37,
+    "percentage": "76% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West State St. Lot",
+    "available": 218,
+    "capacity": 55,
+    "percentage": "71% Full"
+  },
+  {
+    "lot": "Donahue Street Lot",
+    "available": 220,
+    "capacity": 18,
+    "percentage": "39% Full"
+  },
+  {
+    "lot": "Old Band Hall (Gravel) Lot",
+    "available": 222,
+    "capacity": 26,
+    "percentage": "23% Full"
+  },
+  {
+    "lot": "312 A (Gravel)",
+    "available": 312,
+    "capacity": 30,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "Public Safety Lot",
+    "available": 400,
+    "capacity": 42,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Hansen's Lot",
+    "available": 420,
+    "capacity": 10,
+    "percentage": "30% Full"
+  },
+  {
+    "lot": "Vet Med East Lot",
+    "available": 421,
+    "capacity": 170,
+    "percentage": "24% Full"
+  },
+  {
+    "lot": "Vet Med West Lot",
+    "available": 422,
+    "capacity": 113,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Vet Ln. Lot",
+    "available": 423,
+    "capacity": 6,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "LADDL Lot",
+    "available": 424,
+    "capacity": 57,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Warehouse Ln. Lot",
+    "available": 425,
+    "capacity": 41,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "University Stores B Lot",
+    "available": 430,
+    "capacity": 42,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "U-High South B Lot",
+    "available": 511,
+    "capacity": 24,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Early Learning Center B Lot",
+    "available": null,
+    "capacity": 23,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nelson Memorial B Lot",
+    "available": 603,
+    "capacity": 29,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Tiger Band Hall B Lot",
+    "available": 214,
+    "capacity": 6,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "The 5 B Lot",
+    "available": 221,
+    "capacity": 24,
+    "percentage": "82% Full"
+  },
+  {
+    "lot": "Cogen Lot",
+    "available": 301,
+    "capacity": 26,
+    "percentage": "46% Full"
+  },
+  {
+    "lot": "Electrical Engineering B Lot",
+    "available": 304,
+    "capacity": 117,
+    "percentage": "35% Full"
+  },
+  {
+    "lot": "Facility Services Lot (Fieldhouse Dr.)",
+    "available": 304,
+    "capacity": 75,
+    "percentage": "70% Full"
+  },
+  {
+    "lot": "Sturgis Hall B Lot (312A)",
+    "available": 312,
+    "capacity": 70,
+    "percentage": "15% Full"
+  },
+  {
+    "lot": "E.B. Doran Hall Lot",
+    "available": 312,
+    "capacity": 44,
+    "percentage": "25% Full"
+  },
+  {
+    "lot": "ECE B Lot",
+    "available": 402,
+    "capacity": 60,
+    "percentage": "1% Full"
+  },
+  {
+    "lot": "E.B Doran Hall (Gravel) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "South Quad B (Gravel) Lot",
+    "available": 403,
+    "capacity": 55,
+    "percentage": "10% Full"
+  },
+  {
+    "lot": "Engineering Ln. Lot",
+    "available": null,
+    "capacity": 56,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (Alaska St.) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "available": null,
+    "capacity": 45,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Forestry Ln. Lot",
+    "available": null,
+    "capacity": 15,
+    "percentage": "46% Full"
+  },
+  {
+    "lot": "Hospital Ln. Lot",
+    "available": null,
+    "capacity": 16,
+    "percentage": "66% Full"
+  },
+  {
+    "lot": "Infirmary Rd. Lot",
+    "available": null,
+    "capacity": 38,
+    "percentage": "47% Full"
+  },
+  {
+    "lot": "Tower Dr. B Lot",
+    "available": null,
+    "capacity": 58,
+    "percentage": "70% Full"
+  },
+  {
+    "lot": "Parade Grounds North Lot",
+    "available": null,
+    "capacity": 40,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Parade Grounds South Lot",
+    "available": null,
+    "capacity": 61,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "North Stadium Dr. Lot",
+    "available": null,
+    "capacity": 27,
+    "percentage": "22% Full"
+  },
+  {
+    "lot": "Parker Coliseum B Lot",
+    "available": null,
+    "capacity": 37,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "",
+    "available": null,
+    "capacity": null,
+    "percentage": ""
+  },
+  {
+    "lot": "West State St. Lot",
+    "available": 218,
+    "capacity": 55,
+    "percentage": "75% Full"
+  },
+  {
+    "lot": "Donahue Street Lot",
+    "available": 220,
+    "capacity": 18,
+    "percentage": "39% Full"
+  },
+  {
+    "lot": "Old Band Hall (Gravel) Lot",
+    "available": 222,
+    "capacity": 26,
+    "percentage": "35% Full"
+  },
+  {
+    "lot": "312 A (Gravel)",
+    "available": 312,
+    "capacity": 30,
+    "percentage": "90% Full"
+  },
+  {
+    "lot": "Public Safety Lot",
+    "available": 400,
+    "capacity": 42,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Hansen's Lot",
+    "available": 420,
+    "capacity": 10,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Vet Med East Lot",
+    "available": 421,
+    "capacity": 170,
+    "percentage": "19% Full"
+  },
+  {
+    "lot": "Vet Med West Lot",
+    "available": 422,
+    "capacity": 113,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Vet Ln. Lot",
+    "available": 423,
+    "capacity": 6,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "LADDL Lot",
+    "available": 424,
+    "capacity": 57,
+    "percentage": "No Data"
+  },
+  {
+    "lot": "Warehouse Ln. Lot",
+    "available": 425,
+    "capacity": 41,
+    "percentage": "13% Full"
+  },
+  {
+    "lot": "University Stores B Lot",
+    "available": 430,
+    "capacity": 42,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "U-High North B Lot",
+    "available": 510,
+    "capacity": 88,
+    "percentage": "92% Full"
+  },
+  {
+    "lot": "U-High South B Lot",
+    "available": 511,
+    "capacity": 24,
+    "percentage": "25% Full"
+  },
+  {
+    "lot": "Early Learning Center B Lot",
+    "available": null,
+    "capacity": 23,
+    "percentage": "54% Full"
+  },
+  {
+    "lot": "Nelson Memorial B Lot",
+    "available": 603,
+    "capacity": 29,
+    "percentage": "31% Full"
+  },
+  {
+    "lot": "Tiger Band Hall B Lot",
+    "available": 214,
+    "capacity": 6,
+    "percentage": "17% Full"
+  },
+  {
+    "lot": "The 5 B Lot",
+    "available": 221,
+    "capacity": 24,
+    "percentage": "82% Full"
+  },
+  {
+    "lot": "Cogen Lot",
+    "available": 301,
+    "capacity": 26,
+    "percentage": "80% Full"
+  },
+  {
+    "lot": "Electrical Engineering B Lot",
+    "available": 304,
+    "capacity": 117,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "Facility Services Lot (Fieldhouse Dr.)",
+    "available": 304,
+    "capacity": 75,
+    "percentage": "100% Full"
+  },
+  {
+    "lot": "Sturgis Hall B Lot (312A)",
+    "available": 312,
+    "capacity": 70,
+    "percentage": "99% Full"
+  },
+  {
+    "lot": "E.B. Doran Hall Lot",
+    "available": 312,
+    "capacity": 44,
+    "percentage": "32% Full"
+  },
+  {
+    "lot": "ECE B Lot",
+    "available": 402,
+    "capacity": 60,
+    "percentage": "3% Full"
+  },
+  {
+    "lot": "E.B Doran Hall (Gravel) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "20% Full"
+  },
+  {
+    "lot": "South Quad B (Gravel) Lot",
+    "available": 403,
+    "capacity": 55,
+    "percentage": "16% Full"
+  },
+  {
+    "lot": "Engineering Ln. Lot",
+    "available": null,
+    "capacity": 56,
+    "percentage": "14% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (Alaska St.) Lot",
+    "available": null,
+    "capacity": 19,
+    "percentage": "84% Full"
+  },
+  {
+    "lot": "Fieldhouse Dr. (S. Campus Dr.) Lot",
+    "available": null,
+    "capacity": 45,
+    "percentage": "95% Full"
+  },
+  {
+    "lot": "Forestry Ln. Lot",
+    "available": null,
+    "capacity": 15,
+    "percentage": "46% Full"
+  },
+  {
+    "lot": "Hospital Ln. Lot",
+    "available": null,
+    "capacity": 16,
+    "percentage": "66% Full"
+  },
+  {
+    "lot": "Infirmary Rd. Lot",
+    "available": null,
+    "capacity": 38,
+    "percentage": "47% Full"
+  },
+  {
+    "lot": "Tower Dr. B Lot",
+    "available": null,
+    "capacity": 58,
+    "percentage": "70% Full"
+  },
+  {
+    "lot": "Parade Grounds North Lot",
+    "available": null,
+    "capacity": 40,
+    "percentage": "57% Full"
+  },
+  {
+    "lot": "Parade Grounds South Lot",
+    "available": null,
+    "capacity": 61,
+    "percentage": "53% Full"
+  },
+  {
+    "lot": "North Stadium Dr. Lot",
+    "available": null,
+    "capacity": 27,
+    "percentage": "22% Full"
+  },
+  {
+    "lot": "Parker Coliseum B Lot",
+    "available": null,
+    "capacity": 37,
+    "percentage": "20% Full"
+  }
+]
